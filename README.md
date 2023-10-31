@@ -4,10 +4,20 @@ My passion is to create interactive and creative web applications that improve u
 
 I create impressive user interfaces using: 
 Javascript,
+
+
 Typescript,
+
+
 Redux Toolkit,
+
+
 React JS,
+
+
 Next JS,
+
+
 Tailwind CSS,
 
 if(your life === null){
