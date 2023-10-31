@@ -1,6 +1,5 @@
 Hey! I'm a front-end developer (°◡°♡).
 
-
 My passion is to create interactive and creative web applications that improve user experience and solve complex problems. 🎨
 
 I create impressive user interfaces using: 
