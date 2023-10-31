@@ -1,16 +1,14 @@
-### Hi there 👋
+Hey! I'm a front-end developer (°◡°♡). My passion is to create interactive and creative web applications that improve user experience and solve complex problems. 🎨
+I create impressive user interfaces using: 
+Javascript,
+Typescript,
+Redux Toolkit,
+React JS,
+Next JS,
+Tailwind CSS,
 
-<!--
-**ayame006/ayame006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+if(your life === null){
+  console.log('Learn Javascript')
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ✨ _special_developer_for_устранения_космических_багов_ ✨ :)) 🚀
