@@ -25,8 +25,4 @@ Tailwind CSS,
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-if(your life === null){
-  console.log('Learn Javascript')
-}
-
  ✨ _special_developer_for_устранения_космических_багов_ ✨ :)) 🚀
